@@ -1,0 +1,2 @@
+# aws
+Script for AWS
