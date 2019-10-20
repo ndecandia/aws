@@ -1,6 +1,6 @@
 # kms
 
-![KMS](images/kms.jpg)
+![KMS](images/kms.png)
 
 ### Configure AWS
 ```
